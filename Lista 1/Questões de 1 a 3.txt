@@ -1,0 +1,18 @@
+1. 
+Open GL Shader Language (GLSL) é a forma como são programados os programas de shaders
+para a modificação do pipeline gráfico. Os shaders mais importantes são o vertex shader, que é
+responsável por posicionar os vértices nas coordenadas finais antes da rasterização, e o fragment
+shader, responsável por definir a cor de cada fragmento.
+
+2. 
+Primitivas gráficas são as formas mais básicas usadas para a construção de formas mais complexas
+as principais primitivas são os pontos, polígonos e malhas.
+
+3. 
+Vertex Buffer Objects (VBO): Buffer para transmitir dados, como posição de pontos, para a memória 
+da placa de vídeo para serem processadas.
+
+Vertex Array Object (VAO): Buffer para armazenar informações de cada ponto, como posição, cor e textura.
+
+Element Buffer Object (EBO): Buffer para armazenar informações como indices e evitar a repetição de dados
+redundantes.
